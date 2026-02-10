@@ -1,1 +1,1 @@
-{"Gamecode":"GB88","version": "1.0.3","SFS":{"domain":"api.gb88.club","zone":"Game","port":"9933","httpPort":8080,"httpsPort":8443},"maintain": false}
+{"Gamecode":"GB88","version": "1.0.3","SFS":{"domain":"api.gb88.club","zone":"Game","port":9933,"httpPort":8080,"httpsPort":8443},"maintain": false}
